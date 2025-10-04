@@ -1,7 +1,7 @@
 # AcadBud: One-Stop Solution for Academic Needs
 ![image](https://github.com/user-attachments/assets/7af3bea4-93ff-475e-8df8-6ac1b678d55f)
 
-**Submitted by:** Kalp Patel, Tanishq Kr. Toliya, Vansh Garg  
+**Submitted by:** Akash Kumar Gupta
 **Year:** 2024
 
 ## Introduction
